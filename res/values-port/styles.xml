@@ -26,7 +26,7 @@
         <item name="android:paddingRight">16dip</item>
         <item name="android:paddingEnd">16dip</item>
         <item name="minTextSize">36sp</item>
-        <item name="maxTextSize">64sp</item>
+        <item name="maxTextSize">48sp</item>
         <item name="stepTextSize">8sp</item>
     </style>
 
